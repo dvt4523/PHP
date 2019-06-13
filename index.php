@@ -7,13 +7,13 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Introduction</title>
+        <title></title>
     </head>
     <body>
         <?php
-        echo "Hello <br>";
-        echo "<p> <font color=teal font face='courier'>Name: Duc <br>";
-        echo "<p> <font color=teal font face='courier'>Major: IT <br>";
+        echo "Name: Duc<br>";
+        echo "ID: 18327<br>";
+        echo "Major: IT.";
         ?>
     </body>
 </html>
